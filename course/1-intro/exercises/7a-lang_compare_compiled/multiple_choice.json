@@ -1,9 +1,6 @@
 {
   "question": "Which language is interpreted?",
   "answers": [
-    "Python",
-    "Rust",
-    "Go",
-    "C++"
+    "Python"
   ]
 }
